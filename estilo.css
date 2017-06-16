@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Fondamento');
+
+body  {
+	 background: #8FC0A9;
+    color: black;
+    font-family: 'Fondamento', cursive;
+}
+
+form{
+	width: 25%;
+	border: 5px solid black;
+	margin: 25px;
+	padding: 25px;
+}
+input{
+	margin-bottom: 15px;
+	width: 35%;
+
+}
+select{
+	margin-bottom: 15px;
+	width: 35%;
+}
